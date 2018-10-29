@@ -1,0 +1,30 @@
+{
+  "name": "fcc-api-microservice-url-shortener",
+  "version": "0.0.1",
+  "description": "API & microservices project 3 for fcc",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.0.0-alpha.2",
+    "mongodb": "^2.2.5",
+    "mongoose": "^5.3.7",
+    "cors": "^2.8.1",
+    "body-parser": "^1.15.2",
+    "dns": "^0.2.2"
+  },
+  "engines": {
+    "node": "4.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://hyperdev.com/#!/project/welcome-project"
+  },
+  "keywords": [
+    "node",
+    "hyperdev",
+    "express"
+  ],
+  "license": "MIT"
+}
